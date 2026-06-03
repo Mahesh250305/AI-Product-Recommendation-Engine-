@@ -105,6 +105,10 @@ Budget phone| P105
 
 ---
 
+## 📷 Project Output
+
+![Output](screenshots/output.png)
+
 📈 Key Insights
 
 - Semantic search understands meaning instead of exact keywords.
